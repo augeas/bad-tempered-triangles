@@ -1,0 +1,7 @@
+ipycanvas==0.12.1
+ipytone
+ipywidgets
+matplotlib
+numpy
+scipy
+pillow
